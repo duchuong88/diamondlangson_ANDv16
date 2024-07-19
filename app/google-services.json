@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "498104599088",
+    "firebase_url": "https://diamond-spa-302f2-default-rtdb.firebaseio.com",
+    "project_id": "diamond-spa-302f2",
+    "storage_bucket": "diamond-spa-302f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498104599088:android:0127a4f874af67ceb3e3f5",
+        "android_client_info": {
+          "package_name": "diamondspa.ezs1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgGnU-Bg10zlpMOLV21QI5ihTKraz9ePA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498104599088:android:ce7ef931b0d3d4e7b3e3f5",
+        "android_client_info": {
+          "package_name": "diamondspa.ezs11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgGnU-Bg10zlpMOLV21QI5ihTKraz9ePA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
